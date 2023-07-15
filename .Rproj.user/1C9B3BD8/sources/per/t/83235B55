@@ -1,0 +1,27 @@
+{
+    "id": "83235B55",
+    "path": "~/College/Valorant/Analysis/AgentSynergyLinearModel/synergyCalculator.R",
+    "project_path": "synergyCalculator.R",
+    "type": "r_source",
+    "hash": "1231345259",
+    "contents": "",
+    "dirty": false,
+    "created": 1687399762129.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "158,21",
+        "scrollLine": "122"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1689405287,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1689405287119,
+    "read_only": false,
+    "read_only_alternatives": []
+}
